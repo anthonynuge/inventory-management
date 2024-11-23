@@ -1,5 +1,7 @@
 # Inventory Management System
 
+This was used as a way for me to learn next.js.
+
 A full-stack Inventory Management System web application designed to help store owners efficiently manage inventory, track products, and generate insightful reports. Built using **Next.js**, **Express**, **Redux**, **React**, **TypeScript**, and **PostgreSQL**.
 
 ## Features
@@ -33,7 +35,7 @@ Follow the steps below to clone and run the application locally:
 1. Open your terminal.
 2. Run the following command:
    ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
+   git clone https://github.com/anthony_nuge/inventory-management-system.git
    ```
 3. Navigate to the project directory:
    ```bash
