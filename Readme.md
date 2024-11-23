@@ -46,12 +46,12 @@ Install the necessary packages for both the frontend and backend:
 
 1. Navigate to the `frontend` folder and install dependencies:
    ```bash
-   cd frontend
+   cd client
    npm install
    ```
 2. Go back to the root directory and navigate to the `backend` folder:
    ```bash
-   cd ../backend
+   cd ../server
    npm install
    ```
 
